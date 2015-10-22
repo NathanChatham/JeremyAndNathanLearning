@@ -38,12 +38,12 @@ J:\JeremyAndNathanLearning>**dir**
                2 File(s)            631 bytes
                4 Dir(s)  1,500,143,144,960 bytes free
 
-J:\JeremyAndNathanLearning> ``git init``
+J:\JeremyAndNathanLearning>**git init**
 Initialized empty Git repository in J:/JeremyAndNathanLearning/.git/
 
-J:\JeremyAndNathanLearning>echo # JeremyAndNathanLearning >> README.md
+J:\JeremyAndNathanLearning>**echo # JeremyAndNathanLearning >> README.md**
 
-J:\JeremyAndNathanLearning>dir
+J:\JeremyAndNathanLearning>**dir**
  Volume in drive J is Nathan's ExHD
  Volume Serial Number is 0A2E-CD55
 
