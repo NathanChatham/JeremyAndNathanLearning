@@ -38,12 +38,18 @@ J:\JeremyAndNathanLearning>**dir**
                2 File(s)            631 bytes
                4 Dir(s)  1,500,143,144,960 bytes free
 
-J:\JeremyAndNathanLearning>**git init**
+J:\JeremyAndNathanLearning>``git init``
 Initialized empty Git repository in J:/JeremyAndNathanLearning/.git/
 
-J:\JeremyAndNathanLearning>**echo # JeremyAndNathanLearning >> README.md**
+**From here you need to add a repository on github.com**
+3.To do this you open the site and log in.
+4.You then click the green "+ new repository" button on the right  of the screen.
+5.From there you return to the command prompt and enter the following commands:
 
-J:\JeremyAndNathanLearning>**dir**
+
+J:\JeremyAndNathanLearning>``echo # JeremyAndNathanLearning >> README.md``
+
+J:\JeremyAndNathanLearning>``dir``
  Volume in drive J is Nathan's ExHD
  Volume Serial Number is 0A2E-CD55
 
@@ -60,3 +66,4 @@ J:\JeremyAndNathanLearning>**dir**
                4 Dir(s)  1,500,143,108,096 bytes free
 
 J:\JeremyAndNathanLearning>
+
