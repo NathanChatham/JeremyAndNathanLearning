@@ -4,7 +4,7 @@
 1. Open command prompt
 2. C:\Users\JE640817>**J:**
 
-J:\>dir
+J:\>**dir**
  Volume in drive J is Nathan's ExHD
  Volume Serial Number is 0A2E-CD55
 
@@ -21,9 +21,9 @@ J:\>dir
                1 File(s)         45,335 bytes
                6 Dir(s)  1,500,143,144,960 bytes free
 
-J:\>cd JeremyAndNathanLearning
+J:\>**cd JeremyAndNathanLearning**
 
-J:\JeremyAndNathanLearning>dir
+J:\JeremyAndNathanLearning>**dir**
  Volume in drive J is Nathan's ExHD
  Volume Serial Number is 0A2E-CD55
 
@@ -38,7 +38,7 @@ J:\JeremyAndNathanLearning>dir
                2 File(s)            631 bytes
                4 Dir(s)  1,500,143,144,960 bytes free
 
-J:\JeremyAndNathanLearning>git init
+J:\JeremyAndNathanLearning>__git init__
 Initialized empty Git repository in J:/JeremyAndNathanLearning/.git/
 
 J:\JeremyAndNathanLearning>echo # JeremyAndNathanLearning >> README.md
