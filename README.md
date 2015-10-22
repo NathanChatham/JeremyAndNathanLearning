@@ -38,7 +38,7 @@ J:\JeremyAndNathanLearning>**dir**
                2 File(s)            631 bytes
                4 Dir(s)  1,500,143,144,960 bytes free
 
-J:\JeremyAndNathanLearning>__git init__
+J:\JeremyAndNathanLearning> <span style="color:red">git init</span>
 Initialized empty Git repository in J:/JeremyAndNathanLearning/.git/
 
 J:\JeremyAndNathanLearning>echo # JeremyAndNathanLearning >> README.md
