@@ -1,11 +1,15 @@
-
 public class JeremyAndNathanLearning {
-
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		boolean bob = true;
+		boolean susan = false;
+		
+		if (bob){
+			System.out.print("Hi Bob.");
+		} else if (susan){
+			System.out.print("Hi susan.");
+		} else {
+			System.out.print("Who are you people?");
+		}
 
 	}
 
